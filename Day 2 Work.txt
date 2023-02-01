@@ -1,0 +1,8 @@
+1. Meeting the objectives 
+The objective of the code are to draw the shapes like circle, triangle, rectangle etc. by putting the values dynamically at the time of running. So, that task is properly being performed by the code very well. 
+
+2. Code Quality
+The quality of code is fine as it provides the relevant result to the user by providing the pixels values of placing the line, as per the requirements of shape that we are drawing. The code is not taking the extra space and time of implementing the code is not so low.
+
+3. Is solution "responsive"
+The solution is completely responsive as the window can change its height and width while working and can fix the dimensions accordingly. 
