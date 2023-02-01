@@ -1,1 +1,1 @@
-The tasks are being uploaded for trainig purposes 
+The tasks are being uploaded for training purposes 
